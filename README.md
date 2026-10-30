@@ -10,10 +10,10 @@
 Berikut adalah daftar folder dan file praktikum (`prak`) di setiap folder materi `belajar_html`:
 
 ### 1. `belajar_html1`
-* *Belum ada folder/tugas praktikum (`prak`).*
+* *Belum saya pindahakan folder projek nya.*
 
 ### 2. `belajar_html2`
-* *Belum ada folder/tugas praktikum (`prak`).*
+* *Sudah ada namanya (`index.html`) di dalam.*
 
 ### 3. `belajar_html3`
 * **Folder Praktikum 3**: [`belajar_html3/prak3/`](belajar_html3/prak3/)
